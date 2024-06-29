@@ -11,10 +11,10 @@ const settings = {
 const greeting = {
   title: "Hello 👋.",
   title2: "Harikrushn",
-  logo_name: "harry.k()",
-  nickname: "harry / picleric",
-  full_name: "Harikrushn Kanani",
-  subTitle: "Backend Developer, Open Source Enthusiast 🔥. Always learning.",
+  logo_name: "logo",
+  nickname: "Rakesh",
+  full_name: "Rakesh kumar gupta",
+  subTitle: "Backend Developer 🔥. Always learning.",
   resumeLink:
     "https://drive.google.com/file/d/1Ty0-51DZ72PE30kfJ2p1jjw9SHYCnDAi/view?usp=sharing",
   mail: "mailto:hkanani191@gmail.com",
@@ -27,8 +27,8 @@ const socialMediaLinks = {
   gmail: "hkanani191@gmail.com",
   gitlab: "https://gitlab.com/harikanani",
   // facebook: "https://www.facebook.com/harikrishan.kanani/",
-  twitter: "https://twitter.com/Harikrushn9",
-  instagram: "https://www.instagram.com/hari_kanani_/",
+  twitter: "https://x.com/rginbox",
+  instagram: "https://www.instagram.com/rginbox/",
 };
 
 const skills = {
